@@ -1,6 +1,8 @@
 ### Hey everyone!
 
-![BParolini](https://komarev.com/ghpvc/?username=BParolini&color=blue) ![Intellij IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-blue)
+![BParolini](https://komarev.com/ghpvc/?username=BParolini&color=blue)
+[![Intellij IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-blue)](https://www.jetbrains.com/idea/)
+[![VS Code](https://img.shields.io/badge/editor-VS%20Code-blue)](https://code.visualstudio.com/)
 
 #### 💻 Currently working on:  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=BParolini&repo=OCP-Java-SE-11-Developer&theme=vue)](https://github.com/BParolini/OCP-Java-SE-11-Developer)
