@@ -23,6 +23,7 @@
 
 **Next Reads**
 1. [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?dchild=1&keywords=domain+driven+design&qid=1604941257&s=books&sr=1-1)
+2. [Code Craft](https://www.amazon.com/Code-Craft-Practice-Writing-Excellent-dp-1593271190/dp/1593271190/ref=mt_other?_encoding=UTF8&me=&qid=1605027106)
 
 ---
 
