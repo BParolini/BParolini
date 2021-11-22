@@ -34,11 +34,4 @@
 
 ---
 
-#### 🖊️ GitHub info:  
-![GitHub info](https://github-readme-stats.vercel.app/api?username=BParolini&show_icons=true&theme=vue)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BParolini&layout=compact&theme=vue)
-
-_NOTE: Top languages does not indicate my skill level in them. It's a GitHub metric based on the number of files in that particular language within all my repositories._
-
-
 ### Live long and prosper 🖖🏻
