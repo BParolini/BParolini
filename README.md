@@ -1,7 +1,9 @@
 ### Hey everyone!
 
-[![Intellij IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-blue)](https://www.jetbrains.com/idea/)
-[![VS Code](https://img.shields.io/badge/editor-VS%20Code-blue)](https://code.visualstudio.com/)
+[![Intellij IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-pink)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/editor-PyCharm-green)](https://www.jetbrains.com/pycharm/)
+[![WebStorm](https://img.shields.io/badge/editor-WebStorm-blue)](https://www.jetbrains.com/webstorm/)
+[![VS Code](https://img.shields.io/badge/editor-VS%20Code-yellow)](https://code.visualstudio.com/)
 
 ---
 
