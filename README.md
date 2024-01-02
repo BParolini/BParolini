@@ -1,9 +1,9 @@
 # Hey everyone
 
-[![Neovim](https://img.shields.io/badge/editor-VS%20Code-yellow)](https://neovim.io/)
-[![Intellij IDEA](https://img.shields.io/badge/editor-IntelliJ%20IDEA-purple)](https://www.jetbrains.com/idea/)
+[![Neovim](https://img.shields.io/badge/editor-Neovim-blue)](https://neovim.io/)
+[![Intellij IDEA](https://img.shields.io/badge/editor-IntelliJ_IDEA-magenta)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/editor-PyCharm-green)](https://www.jetbrains.com/pycharm/)
-[![GoLand](https://img.shields.io/badge/editor-WebStorm-blue)](https://www.jetbrains.com/goland/)
+[![GoLand](https://img.shields.io/badge/editor-GoLand-violet)](https://www.jetbrains.com/goland/)
 
 ---
 
