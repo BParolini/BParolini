@@ -30,8 +30,8 @@
 ## 📬 Contact info
 
 1. [e-mail](mailto:brunoparolini@gmail.com) (best way to reach me)
-2. [twitter @brunoparolini](https://twitter.com/brunoparolini)
-3. [LinkedIn](https://www.linkedin.com/in/brunoparolini/) (profile a little outdated)
+2. [LinkedIn](https://www.linkedin.com/in/brunoparolini/)
+3. [twitter @brunoparolini](https://twitter.com/brunoparolini)
 
 ---
 
